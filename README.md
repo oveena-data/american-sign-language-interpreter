@@ -1,2 +1,7 @@
-# american-sign-language-interpreter
-Helping develop an app that would enable American Sign Language to be translated for people who do not 'sign', or those that sign in different languages or styles. 
+# Sign Language Image Classification using Deep Learning
+
+The objective of this project is to implement different deep learning networks to classify images of hands in poses that correspond to letters in American Sign Language. 
+
+## More about the MNIST dataset:
+
+
